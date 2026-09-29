@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="DecisionUI/DecisionUI.Android/DecisionUI.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="DecisionUI/DecisionUI.Browser/DecisionUI.Browser.csproj" />
+  <Project Path="DecisionUI/DecisionUI.Desktop/DecisionUI.Desktop.csproj" />
+  <Project Path="DecisionUI/DecisionUI.iOS/DecisionUI.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="DecisionUI/DecisionUI/DecisionUI.csproj" />
+</Solution>
